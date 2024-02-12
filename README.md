@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">A passionate fullstack web-developer from Polan</h3>
+<h3 align="center">A passionate fullstack web-developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusprogr&label=Profile%20views&color=0e75b6&style=flat" alt="olusprogr" /> </p>
 
