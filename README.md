@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *Python*
 
-- 📫 How to reach me *olus.main333@gmail.como*
+- 📫 How to reach me *olus.main333@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
