@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ArchiTect-Development Team [Team:](https://architect-discord-bot.onrender.com/#/home)
 
-- 🌱 I’m currently learning Web-development **Docker, MongoDB**
+- 🌱 I’m currently learning **Docker, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-olivier-chodura-full-stack.onrender.com/#/home](https://my-portfolio-olivier-chodura-full-stack.onrender.com/#/home)
 
