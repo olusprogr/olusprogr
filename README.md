@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-olivier-chodura-full-stack.onrender.com/#/home](https://my-portfolio-olivier-chodura-full-stack.onrender.com/#/home)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-olivier-chodura-full-stack.onrender.com/#/home](https://olivier-ch-developer.com)
 
 - 💬 Ask me about **Python inc. py-cord, Tkinter; SQL; TypeScript + Angular**
 
