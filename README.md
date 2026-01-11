@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Minecraft Hosting Service](https://github.com/olusprogr/minecraft-server-dashboard.git)
 
-- 👨‍💻 All of my projects are available at [olivier-ch-developer.com](olivier-ch-developer.com)
+- 👨‍💻 All of my projects are available at [olusprogr.dev](olusprogr.dev)
 
 - 📝 I regularly write articles on [https://www.instagram.com/olus.progr/](https://www.instagram.com/olus.progr/)
 
